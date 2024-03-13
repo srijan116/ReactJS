@@ -1,0 +1,42 @@
+#heading{
+    color: blue;
+    display: flex;
+    justify-content: center;
+}
+
+#container{
+    width: 60vw;
+    height: 40vw;
+    background-color: aliceblue;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+#boxes1{
+    display: flex;
+    gap: 30px;
+    width: 23vw;
+    height: 13vw;
+    background-color: bisque;
+    justify-content: center;
+    align-items: center;
+}
+
+#boxes2{
+    display: flex;
+    gap: 30px;
+    width: 23vw;
+    height: 13vw;
+    background-color: beige;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    background-color: black;
+}
